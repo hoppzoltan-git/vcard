@@ -1,4 +1,4 @@
-Hopp Zoltán – NFC névjegy (Vercel)
+Jedlicska Zsófia Melinda – NFC névjegy (Vercel)
 
 A mappában:
 - index.html: mobilbarát névjegyoldal
